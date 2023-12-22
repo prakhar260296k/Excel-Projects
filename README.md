@@ -1,6 +1,6 @@
-                                                  Customer Order Analysis 
+                                                  Customer Order Analysis
 
-Here we have 2 sheets in the excel file. 1st sheet has details of the customer who is making the orders whereas the 2nd sheet tells us about the orders made by the customers during some date range. 
+We have 2 sheets in the excel file. 1st sheet has details of the customer who is making the orders whereas the 2nd sheet tells us about the orders made by the customers during some date range. 
 
 Post this, steps involved in this project :
 1.	Data cleaning plus Data Preparation : We need to improve inconsistencies in data. Eg. Names of customers need to have proper casing to avoid confusion. Objective is to clean up the data to get insights out of it. 
