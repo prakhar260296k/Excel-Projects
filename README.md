@@ -1,4 +1,4 @@
-																									#Customer Order Analysis 
+#Customer Order Analysis 
 
 Here we have 2 sheets in the excel file. 1st sheet has details of the customer who is making the orders whereas the 2nd sheet tells us about the orders made by the customers during some date range. 
 
